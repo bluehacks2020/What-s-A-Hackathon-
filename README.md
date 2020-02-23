@@ -15,6 +15,14 @@ Frameworks used:
 
 # Citations or References
 
+Frameworks:
+
+https://getbootstrap.com/docs/4.4/
+
+https://docs.djangoproject.com/en/3.0/
+
+
+
 Images:
 https://miro.medium.com/max/12000/1*mHi42reOKA-1NXJOmiQSDA.jpeg
 
@@ -50,7 +58,5 @@ https://images.squarespace-cdn.com/content/v1/59d5825e29f1870f73e91280/152051608
 
 https://cdn.shopify.com/s/files/1/1004/9308/products/clarencetravelsling-red_2048x.jpg?v=1553793502
   
-Frameworks:
-https://getbootstrap.com/docs/4.4/
+  
 
-https://docs.djangoproject.com/en/3.0/
