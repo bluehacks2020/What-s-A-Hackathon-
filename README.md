@@ -24,6 +24,7 @@ https://docs.djangoproject.com/en/3.0/
 
 
 Images:
+
 https://miro.medium.com/max/12000/1*mHi42reOKA-1NXJOmiQSDA.jpeg
 
 https://philtfip.org/wp-content/uploads/2019/06/DSCF3282-1080x675.jpg
